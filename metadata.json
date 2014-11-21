@@ -1,0 +1,14 @@
+{
+  "license": "Apache 2.0",
+  "name": "davideagle-strace",
+  "author": "David Orn Johannsson",
+  "dependencies": [],
+  "operatingsystem_support": [],
+  "project_page": "https://github.com/davideagle/puppet-strace",
+  "requirements": [],
+  "source": "git://github.com/davideagle/puppet-strace",
+  "summary": "Strace Module",
+  "tags": [],
+  "version": "0.1.0"
+  
+}
