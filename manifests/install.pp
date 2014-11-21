@@ -13,8 +13,8 @@
 # Copyright 2014 David Orn Johannsson
 #
 class strace::install {
-  if !defined(Package[$strace::params::package_name]) {
-    package { $strace::params::package_name:
+  if !defined(Package[$::strace::params::package_name]) {
+    package { $::strace::params::package_name:
       ensure => $::strace::package_ensure,
     }
   }
